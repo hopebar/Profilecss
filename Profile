@@ -1,0 +1,251 @@
+<!DOCTYPE HTML>
+<html lang="th">
+    <head>
+        <title>TEST</title>
+    </head>
+
+    <body>
+        <br/>
+        <h3 align="left">
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font face="lato" size="10">Abilities</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                        <a href="index.html">Profile</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="experiences.html">Experiences</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="abilities.html">Abilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="projects.html">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <br />
+        </h3>
+
+        <br /><br /><br /><br /><br /><br /><br /><br /><br />
+                        <h1 align="center">
+                            <font face="sans-serif" color="#000" size="7">
+                            SKILLS
+                            </font>
+                       <h3 align="center">
+                            <font face="Lato" color="#000" size="5">
+                            "I'm not good any skills at all but I will do my best."
+                            </font>
+                        <h4>
+                            <font face="lato" size="4">
+                            <table style="margin-left: auto; margin-right: auto" cellspacing="30"> <!--- border="1">-->
+                                <tr>
+                                    <td>
+                                        <table>
+                                            <tr>
+                                                <td>Draw</td>
+                                                <!--Emoji Windows: WIN+. or WIN+; | MAC: ^+Command+space-->
+                                                <td>⭐⭐⭐</td>
+                                            </tr>
+                                            <tr>
+                                                <td>English</td>
+                                                <td>⭐⭐⭐</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Math</td>
+                                                <td>⭐⭐⭐</td>
+                                            </tr>      
+                                            <tr>
+                                                <td>Physics</td>
+                                                <td>⭐⭐</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Maya</td>
+                                                <td>⭐</td>
+                                            </tr>        
+                                        </table>               
+                                                                           
+                                    </td>
+                                </tr>
+                            </table>
+                            </font>  
+                        </h4>              
+</body>
+</html> 
+
+<!DOCTYPE HTML>
+<html lang="th">
+    <head>
+        <title>TEST</title>
+    </head>
+
+    <body>
+        <br/>
+        <h3 align="left">
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font face="lato" size="10">Contact</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                        <a href="index.html">Profile</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="experiences.html">Experiences</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="abilities.html">Abilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="projects.html">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <br />
+        </h3>
+        <hr>
+        <h1 style="text-align: center; font-family: cursive;"></h1>
+        <table style="width:100%; text-align: center">
+        <tr>
+            <td>
+                <!-- Form: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#forms -->
+                <form action="mailto:suttita.phot@bumail.net" method="POST" enctype="text/plain">
+                    <label for="yourName">Your Name:</label>
+                    <input type="text" id="yourName" name="yourName" value="">
+                    <br>
+                    <label for="yourEmail">Your Email:</label>
+                    <input type="email" id="yourEmail" name="yourEmail" value="">
+                    <br>
+                    <br />
+                    <label for="yourMessage">Your Message:</label>
+                    <br>
+                    <textarea id="yourMessage" name="yourMessage" cols="30" rows="10"></textarea>
+                    <br>
+                    <input type="submit" name="">
+                </form>
+
+                <!--Reference Social Media Icons of Awesome 4-->
+                <link rel="stylesheet"
+                    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <p><a href="https://www.facebook.com/suttita.potisorn" class="fa fa-facebook-square" target="_blank"
+                        style="font-size: 40px; color: rgb(7, 114, 255);"></a>  
+                    <a href="https://www.instagram.com/am_suttita/" class="fa fa-instagram" target="_blank"
+                        style="font-size: 40px; color: brown;"></a>  
+                    
+                </p>
+                <p>Email: <a href="mailto:suttita.phot@bumail.net">suttita.phot@bumail.net</a></p>
+        </tr>
+    </table>
+</body>
+</html> 
+<!DOCTYPE HTML>
+<html lang="th">
+    <head>
+        <title>TEST</title>
+    </head>
+
+    <body>
+        <br/>
+        <h3 align="left">
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font face="lato" size="10">Experiences</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                        <a href="index.html">Profile</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="experiences.html">Experiences</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="abilities.html">Abilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="projects.html">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <br/>
+        </h3>
+
+        <br/><br/><br/><br/><br/><br/><br/><br/>
+        <h4 align="center"><font face="Lato" color="#000" size="5">High school: Triamudomsuksa pattanakarn pathumthani school </font></h4>
+        <h4 align="center"><font face="Lato" color="#000" size="5">Major: Sci-Math </font></h4>
+        <h4 align="center"><font face="Lato" color="#000" size="5">University: Bangkok university </font></h4>
+        <h4 align="center"><font face="Lato" color="#000" size="5">Major: Multimedia and Entertainment Engineering </font></h4>
+
+
+</body>
+</html> 
+                        
+<!DOCTYPE HTML>
+<html lang="th">
+    <head>
+        <title>Suttita's Profile</title>
+    </head>
+
+    <body>
+        <br/>
+        <h3 align="left">
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font face="lato" size="10">Profile</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                        <a href="index.html">Profile</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="experiences.html">Experiences</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="abilities.html">Abilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="projects.html">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <br />
+            </h3>           
+
+                        <br /><br /><br /><br /><br /><br /><br /><br /><br />
+                        <h1 align="center">
+                            <font face="sans-serif" color="#000" size="7">
+                            HELLO
+                            </font>
+                        </h1>
+                        <h3 align="center">
+                            <font face="Lato" color="#000" size="5">
+                            MY NAME IS
+                            </font>
+                        </h3>
+                        <br />
+                        <h3 align="center">
+                            <font face="Lato" color="#000" size="10"> SUTTITA PHOTHISON</font>
+                        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                        </h3>
+                        <br/>
+                        <h4 align="center"> I used to study at Triamudomsuksa pattanakarn pathumthani school and now I stutying in Bangkok university.<br/>
+                           And I study in Faculty of school of engineering. My major is Multimedia and Entertainment Engineering.
+                        </h4>
+
+                        <br/>
+                        <p style="text-align: center;"> Email: <a href="suttita.phot@bumail.net">suttita.phot@bumail.net</a></p>
+                        
+                        
+                        
+        
+    </body>
+</html>
+<!DOCTYPE HTML>
+<html lang="th">
+    <head>
+        <title>TEST</title>
+    </head>
+
+    <body>
+        <br/>
+        <h3 align="left">
+            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font face="lato" size="10">Projects</font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                        <a href="index.html">Profile</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="experiences.html">Experiences</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="abilities.html">Abilities</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="projects.html">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <br />
+        </h3>
+
+        <br /><br /><br /><br /><br /><br /><br /><br /><br />
+                        <h1 align="center">
+                            <font face="sans-serif" color="#000" size="7">
+                            MY WORKS
+                            </font>
+                       <h3 align="center">
+                            <font face="Lato" color="#000" size="5">
+                            "I don't have any projects but this is just my works."
+                            </font>
+                        <p><img src="work.png" alt="work"></p>
+</body>
+</html> 
